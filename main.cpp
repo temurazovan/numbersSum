@@ -9,6 +9,7 @@ int sum(int arr[], int result, int size) {
             }
         }
     }
+    return -1;
 }
 
 int main() {
